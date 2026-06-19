@@ -534,11 +534,17 @@ footer { padding: 40px 0 48px; }
   overflow-x: auto;
 }
 .master-terminal .muted { color: var(--dk-mute); }
-.app-directory { align-items: stretch; }
+.app-directory {
+  align-items: stretch;
+  gap: 16px;
+  background: transparent;
+  border: 0;
+}
 .app-cell {
   display: flex;
   flex-direction: column;
   gap: 12px;
+  border: 1px solid var(--border);
 }
 .app-thumb {
   display: block;
