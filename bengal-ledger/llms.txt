@@ -1,0 +1,14 @@
+﻿# Bengal Ledger APK
+
+Download the Bengal Ledger APK, an offline Android SMS finance ledger that parses transaction messages into a local ledger with CSV export.
+
+Download: https://tanzir71.github.io/android-apk-landing-pages/bengal-ledger/assets/bengal-ledger.apk
+Canonical: https://tanzir71.github.io/android-apk-landing-pages/bengal-ledger/
+Author: Tanzir Rahman, https://tanziro.com
+Package: bengalledger.offline.sms
+Version: 1.0.2+3
+APK size: 49.44 MB
+SHA256: 0fc40d0a1ce7b7a6692e14b36148d3e36d50fdde3f29f760181d4013d08001e5
+
+Important: This APK is vibe-coded, has limited testing, and ships with no warranty. Users should read the permissions and install at their own risk.
+

@@ -1,0 +1,14 @@
+﻿# PromiseQR APK
+
+Download the PromiseQR APK, an offline peer-to-peer borrowing and lending ledger synced by QR codes, Android Nearby, and SMS.
+
+Download: https://tanzir71.github.io/android-apk-landing-pages/promiseqr/assets/promiseqr.apk
+Canonical: https://tanzir71.github.io/android-apk-landing-pages/promiseqr/
+Author: Tanzir Rahman, https://tanziro.com
+Package: com.promiseqr.promise_qr
+Version: 1.0.0+1
+APK size: 64.04 MB
+SHA256: 5f50a5977c51b38a10b6e3dad32af4ae90038bc7988c63edcb0f252b6d6887ff
+
+Important: This APK is vibe-coded, has limited testing, and ships with no warranty. Users should read the permissions and install at their own risk.
+

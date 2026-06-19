@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://tanzir71.github.io/android-apk-landing-pages/bluetooth-mouse-jiggler/sitemap.xml
+

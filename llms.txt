@@ -1,0 +1,15 @@
+﻿# Tanzir Android APK Lab
+
+Single GitHub Pages repo for vibe-coded Android APK landing pages by Tanzir Rahman.
+
+Canonical: https://tanzir71.github.io/android-apk-landing-pages/
+Author: Tanzir Rahman, https://tanziro.com
+
+Apps:
+- Bengal Ledger: https://tanzir71.github.io/android-apk-landing-pages/bengal-ledger/ - Download the Bengal Ledger APK, an offline Android SMS finance ledger that parses transaction messages into a local ledger with CSV export. Download: https://tanzir71.github.io/android-apk-landing-pages/bengal-ledger/assets/bengal-ledger.apk SHA256: 0fc40d0a1ce7b7a6692e14b36148d3e36d50fdde3f29f760181d4013d08001e5
+- Bluetooth Mouse Jiggler: https://tanzir71.github.io/android-apk-landing-pages/bluetooth-mouse-jiggler/ - Download the Bluetooth Mouse Jiggler APK, an Android Bluetooth HID utility for paired-device mouse movement and wakefulness testing. Download: https://tanzir71.github.io/android-apk-landing-pages/bluetooth-mouse-jiggler/assets/bluetooth-mouse-jiggler.apk SHA256: a5692bd2039de4a0296b7bf7a00915d37d2e9bf32abd3f40d2aa22fb9df9c056
+- MemoryOS: https://tanzir71.github.io/android-apk-landing-pages/memoryos/ - Download the MemoryOS APK, an offline Android memory timeline with local nodes, source controls, trails, summaries, and Markdown export. Download: https://tanzir71.github.io/android-apk-landing-pages/memoryos/assets/memoryos.apk SHA256: 1c337736ca1daa72b291239910c6e1b94f1236e5af5e8f022ac4109615bbafdc
+- Pocket CRM: https://tanzir71.github.io/android-apk-landing-pages/pocket-crm/ - Download the Pocket CRM APK, a local Android CRM that syncs contacts, SMS, and call logs into relationship timelines with scheduled SMS. Download: https://tanzir71.github.io/android-apk-landing-pages/pocket-crm/assets/pocket-crm.apk SHA256: 3b1acbed3cb13e163840eddad03a15721ac871b7fb57acaa85c862f7093c15b3
+- PromiseQR: https://tanzir71.github.io/android-apk-landing-pages/promiseqr/ - Download the PromiseQR APK, an offline peer-to-peer borrowing and lending ledger synced by QR codes, Android Nearby, and SMS. Download: https://tanzir71.github.io/android-apk-landing-pages/promiseqr/assets/promiseqr.apk SHA256: 5f50a5977c51b38a10b6e3dad32af4ae90038bc7988c63edcb0f252b6d6887ff
+- SMS Geolocate: https://tanzir71.github.io/android-apk-landing-pages/sms-geolocate/ - Download the SMS Geolocate APK, an Android emergency SMS location utility with trusted contacts, schedules, and connectivity-loss triggers. Download: https://tanzir71.github.io/android-apk-landing-pages/sms-geolocate/assets/sms-geolocate.apk SHA256: 4b07b31c1637c439ae11e0ea9aad32aed20eaca2d187d826634657ec758f5b3c
+- SMS Wake-on-LAN: https://tanzir71.github.io/android-apk-landing-pages/sms-wake-lan/ - Download the SMS Wake-on-LAN APK, an Android utility that triggers WOL magic packets from incoming SMS keywords. Download: https://tanzir71.github.io/android-apk-landing-pages/sms-wake-lan/assets/sms-wake-lan.apk SHA256: 6ae24e6f3564b9d0d85d02f71bb60437a89541e1c2ed0a2f90e9c3bf0454217f

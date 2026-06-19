@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://tanzir71.github.io/android-apk-landing-pages/sitemap.xml

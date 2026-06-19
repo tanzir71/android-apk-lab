@@ -1,0 +1,14 @@
+﻿# Pocket CRM APK
+
+Download the Pocket CRM APK, a local Android CRM that syncs contacts, SMS, and call logs into relationship timelines with scheduled SMS.
+
+Download: https://tanzir71.github.io/android-apk-landing-pages/pocket-crm/assets/pocket-crm.apk
+Canonical: https://tanzir71.github.io/android-apk-landing-pages/pocket-crm/
+Author: Tanzir Rahman, https://tanziro.com
+Package: com.pocketcrm.pocket_crm
+Version: 1.0.0+1
+APK size: 53.23 MB
+SHA256: 3b1acbed3cb13e163840eddad03a15721ac871b7fb57acaa85c862f7093c15b3
+
+Important: This APK is vibe-coded, has limited testing, and ships with no warranty. Users should read the permissions and install at their own risk.
+

@@ -1,0 +1,14 @@
+﻿# SMS Geolocate APK
+
+Download the SMS Geolocate APK, an Android emergency SMS location utility with trusted contacts, schedules, and connectivity-loss triggers.
+
+Download: https://tanzir71.github.io/android-apk-landing-pages/sms-geolocate/assets/sms-geolocate.apk
+Canonical: https://tanzir71.github.io/android-apk-landing-pages/sms-geolocate/
+Author: Tanzir Rahman, https://tanziro.com
+Package: com.example.sms_geolocate
+Version: 1.0.0+1
+APK size: 49.61 MB
+SHA256: 4b07b31c1637c439ae11e0ea9aad32aed20eaca2d187d826634657ec758f5b3c
+
+Important: This APK is vibe-coded, has limited testing, and ships with no warranty. Users should read the permissions and install at their own risk.
+

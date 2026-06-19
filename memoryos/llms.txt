@@ -1,0 +1,14 @@
+﻿# MemoryOS APK
+
+Download the MemoryOS APK, an offline Android memory timeline with local nodes, source controls, trails, summaries, and Markdown export.
+
+Download: https://tanzir71.github.io/android-apk-landing-pages/memoryos/assets/memoryos.apk
+Canonical: https://tanzir71.github.io/android-apk-landing-pages/memoryos/
+Author: Tanzir Rahman, https://tanziro.com
+Package: com.memoryos.memoryos
+Version: 1.0.0+1
+APK size: 50.1 MB
+SHA256: 1c337736ca1daa72b291239910c6e1b94f1236e5af5e8f022ac4109615bbafdc
+
+Important: This APK is vibe-coded, has limited testing, and ships with no warranty. Users should read the permissions and install at their own risk.
+
