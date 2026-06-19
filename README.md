@@ -18,4 +18,4 @@ Single GitHub Pages repo containing all APK landing pages and downloadable APK a
 
 Push this repo to GitHub, then enable GitHub Pages from main / root.
 
-Expected URL: https://tanzir71.github.io/android-apk-landing-pages/
+Expected URL: https://tanzir71.github.io/android-apk-lab/
