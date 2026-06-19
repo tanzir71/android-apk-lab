@@ -238,7 +238,6 @@ h1 {
   width: min(100%, 380px);
   margin: 0 auto;
   justify-self: center;
-  box-shadow: 20px 20px 0 var(--border);
 }
 .phone-frame img {
   display: block;
@@ -514,7 +513,6 @@ footer { padding: 40px 0 48px; }
   .stats { margin-top: 32px; }
   .stat { padding: 16px 12px 13px 12px; }
   .stat:first-child { padding-left: 0; }
-  .phone-frame { box-shadow: 10px 10px 0 var(--border); }
   .section { padding: 56px 0; }
   .cta-row .btn { width: 100%; }
 }
