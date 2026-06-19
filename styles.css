@@ -534,46 +534,55 @@ footer { padding: 40px 0 48px; }
   overflow-x: auto;
 }
 .master-terminal .muted { color: var(--dk-mute); }
-.app-showcase {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1px;
-  background: var(--border);
-  border: 1px solid var(--border);
+.app-directory { align-items: stretch; }
+.app-cell {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
-@media (min-width: 760px) { .app-showcase { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-@media (min-width: 1120px) { .app-showcase { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
-.app-card {
-  display: grid;
-  grid-template-rows: auto 1fr auto;
-  min-width: 0;
-  background: var(--panel);
-  color: var(--fg);
-}
-.app-card-media {
-  height: 300px;
-  padding: 18px;
-  border-bottom: 1px solid var(--border-soft);
-  background: var(--bg);
-  display: grid;
-  place-items: center;
-}
-.app-card-media img {
-  max-height: 100%;
-  width: auto;
-  object-fit: contain;
-  border: 1px solid var(--border);
+.app-thumb {
+  display: block;
+  height: 132px;
+  margin: -2px -2px 2px;
+  border: 1px solid var(--border-soft);
   background: #fff;
+  overflow: hidden;
 }
-.app-card-body { padding: 20px; }
-.app-card-body p { margin: 10px 0 0; color: var(--muted); font-size: 13.5px; line-height: 1.6; }
-.app-card-actions {
+.app-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  transform: scale(1.02);
+}
+.app-cell h3 { margin-top: 0; }
+.app-cell h3 a:hover { color: var(--acc); }
+.app-cell p { margin: 0; }
+.app-use { color: var(--muted); }
+.app-package {
+  display: block;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}
+.app-actions {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
-  padding: 0 20px 20px;
+  gap: 12px;
+  margin-top: auto;
+  padding-top: 12px;
+  border-top: 1px solid var(--border-soft);
+  font-family: var(--f-mono);
+  font-size: 12px;
+}
+.app-actions a {
+  color: var(--fg);
+  border-bottom: 1px solid var(--acc);
+}
+.app-actions a:hover {
+  color: var(--acc);
+  border-color: var(--fg);
 }
 @media (max-width: 639px) {
   .master-terminal { box-shadow: 10px 10px 0 var(--border); }
-  .app-card-media { height: 260px; }
+  .app-thumb { height: 108px; }
 }
